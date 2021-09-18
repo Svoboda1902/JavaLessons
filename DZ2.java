@@ -13,7 +13,7 @@ class DZ2 {
 
         System.out.println(Task3(-2));
 
-        repeatString("Ponyat' i prosit'", 1);
+        repeatString("Ponyat' i prostit'", 1);
     }
 
     static boolean Task1(int a, int b) {
