@@ -20,17 +20,18 @@ class DZ2 {
         return a + b >=10 && a + b <= 20;
     }
 
-	 static void Task2(int y) {
-        if (y >= 0) {
-            System.out.println("Положительное");
-        }
-        else {
-            System.out.println("Отприцательное");
-        }
+    static void Task2(int y) {
+        System.out.println(y < 0? "Положительное" : "Отприцательное");
+        //if (y >= 0) {
+            //System.out.println("Положительное");
+        //}
+        //else {
+            //System.out.println("Отприцательное");
+        //}
     }
 
     static boolean Task3(int y) {
-	    return y>= -2;
+        return y>= -2;
     }
 
     static void repeatString(String str, int n) {
