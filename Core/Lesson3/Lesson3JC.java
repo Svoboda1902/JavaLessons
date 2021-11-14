@@ -1,8 +1,8 @@
 /**
- * Lesson 2. JavaCoreDZ2.
+ * Lesson 3. JavaCoreDZ2.
  *
  * @author Tselovalnikov S
- * @version 1 november 2021
+ * @version 4 november 2021
  */
 public class Lesson3JC {
     public static void main(String[] args) {
